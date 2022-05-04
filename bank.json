@@ -1,0 +1,9 @@
+[
+    {
+      "CustomerId":"CID012",
+      "CustomerName":"DIVYA",
+      "AccountType":"SAVINGS",
+      "CurrentBalance":20000,
+      "AccountStatus":"ACTIVE"
+    }
+]

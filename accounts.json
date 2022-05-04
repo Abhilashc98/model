@@ -1,0 +1,15 @@
+[
+   {
+       "EMP_ID" : 101,
+       "EMP_NAME" : "ABHILASH",
+       "EMP_DESIGNATION" : "DEVELOPER",
+       "EMP_SALARY" : 10000 
+   },
+   {
+       "EMP_ID" : 102,
+       "EMP_NAME" : "MIDHUN",
+       "EMP_DESIGNATION" : "TESTING",
+       "EMP_SALARY" :250000
+   }
+]
+
